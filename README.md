@@ -60,4 +60,4 @@ I'm Embedded Software Enginner.
  </div>
  <br/>
  
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=100&reversal=true&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=262627&height=100&reversal=true&section=footer)
