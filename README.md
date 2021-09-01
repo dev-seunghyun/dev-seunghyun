@@ -15,7 +15,7 @@ I'm Embedded Software Enginner.
 
 <div align="center">
  
- <h2>📚  Tech Stack 📚 </h2>
+ <h3>📚  Tech Stack 📚 </h3>
  
  </div>
  
@@ -45,7 +45,7 @@ I'm Embedded Software Enginner.
 
 <div align="center">
 
- <h2> 🛠️  Cowork Tools 🛠️ </h2>
+ <h3> 🛠️  Cowork Tools 🛠️ </h3>
 
 </div>
 
@@ -58,3 +58,10 @@ I'm Embedded Software Enginner.
  </div>
  <br/>
  
+ 
+<div align="center">
+ <h2> 📧  Contact Me 📧 </h2>
+</div>
+<div align="center">
+  <img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/dev-seunghyun/)></a> 
+  </div>
