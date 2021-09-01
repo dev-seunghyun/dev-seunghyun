@@ -8,7 +8,6 @@
 ### :raised_hand: Hi~ there  :raised_hand:
  
 </div>
-<br/>
 
 <div align="center">
 
@@ -18,11 +17,8 @@ I'm Embedded Software Enginner.
 
 <div align="center">
  
- <img style="display: inline;" src="https://user-images.githubusercontent.com/16890308/131687424-a9e19c6f-2898-4b59-b9dc-218823f7c5a1.png"> 
+ <h2>📚  Tech Stack 📚 </h2>
  
- <h3  style="display: inline;" >Tech Stack</h3>
- 
- <img  style="display: inline;"  src="https://user-images.githubusercontent.com/16890308/131687424-a9e19c6f-2898-4b59-b9dc-218823f7c5a1.png">
  </div>
  
 <div align="center">
@@ -51,7 +47,7 @@ I'm Embedded Software Enginner.
 
 <div align="center">
 
-## Cowork Tools
+ <h2> 🛠️  Cowork Tools 🛠️ </h2>
 
 </div>
 
