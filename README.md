@@ -3,6 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F8DA43&height=125&text=Seunghyun%20Lee&fontColor=262627&fontSize=50)
 
 
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F8DA43&height=200&text=Seunghyun%20Lee&fontColor=262627&fontSize=50&fontAlign=75&fontAlignY=35)
+
+
+
 <div align="center">
  
 ### :raised_hand: Hi~ there  :raised_hand:
