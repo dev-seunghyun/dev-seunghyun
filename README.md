@@ -57,11 +57,3 @@ Cowork Tools
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> 
  </div>
-
-<img src="https://img.shields.io/badge/쓰고자하는_ARM-2A9CC5"/></a>
-<img src="https://img.shields.io/badge/쓰고자하는_ARM-2A9CC5"/></a>
-<img src="https://img.shields.io/badge/쓰고자하는_ARM-2A9CC5"/></a>
-<img src="https://img.shields.io/badge/쓰고자하는_ARM-2A9CC5"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a> 
