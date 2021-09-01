@@ -1,24 +1,29 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=F8DA43&height=200&text=Seunghyun%20Lee&fontColor=262627&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F8DA43&height=150&text=Seunghyun%20Lee&fontColor=262627&fontSize=60)
 
 
 <div align="center">
-:raised_hand: Hi~ there  :raised_hand:
+ 
+### :raised_hand: Hi~ there  :raised_hand:
+ 
 </div>
 <br/>
 
 <div align="center">
+
 I'm Embedded Software Enginner.
- </div>
- 
-<br/>
+
+</div>
+
 <div align="center">
  
-## Tech Stack
-
- </div>
+ <img style="display: inline;" src="https://user-images.githubusercontent.com/16890308/131687424-a9e19c6f-2898-4b59-b9dc-218823f7c5a1.png"> 
  
+ <h3  style="display: inline;" >Tech Stack</h3>
+ 
+ <img  style="display: inline;"  src="https://user-images.githubusercontent.com/16890308/131687424-a9e19c6f-2898-4b59-b9dc-218823f7c5a1.png">
+ </div>
  
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -44,8 +49,6 @@ I'm Embedded Software Enginner.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
  </div>
 
-<br/>
-
 <div align="center">
 
 ## Cowork Tools
@@ -59,3 +62,6 @@ I'm Embedded Software Enginner.
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> 
  </div>
+ <br/>
+ 
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=100&reversal=true&section=footer)
