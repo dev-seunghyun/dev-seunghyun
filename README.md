@@ -58,10 +58,4 @@ I'm Embedded Software Enginner.
  </div>
  <br/>
  
- 
-<div align="center">
- <h3> Contact Me</h3>
-</div>
-<div align="center">
-  <img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/dev-seunghyun/)></a> 
   
