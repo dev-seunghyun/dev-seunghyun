@@ -1,7 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Seunghyun%20Lee&fontColor=000000&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F8DA43&height=200&text=Seunghyun%20Lee&fontColor=262627&fontSize=60)
 
 
-
-Tech Stack
+ ### :raised_hand:   Hi ~    :raised_hand:
