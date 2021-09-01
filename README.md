@@ -45,8 +45,6 @@ I'm Embedded Software Enginner.
  </div>
 
 <br/>
-<br/>
- 
 
 <div align="center">
 
