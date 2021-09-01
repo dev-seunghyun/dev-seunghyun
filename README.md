@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=F8DA43&height=150&text=Seunghyun%20Lee&fontColor=262627&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F8DA43&height=125&text=Seunghyun%20Lee&fontColor=262627&fontSize=50)
 
 
 <div align="center">
