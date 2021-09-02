@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-I'm Embedded Software Enginner.
+I'm MCU Firmware developer.
 </div>
 
 </br>
